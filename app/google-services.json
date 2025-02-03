@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399232968671",
+    "project_id": "proyectoapirickymorty",
+    "storage_bucket": "proyectoapirickymorty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399232968671:android:7bd33c1ca6a0d3040c866a",
+        "android_client_info": {
+          "package_name": "com.nicolaischirmer.proyectoapirickymorty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399232968671-72shvr5jkb5lia8eoe36jnlar2f52rq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAloKUmO5cVOgbxIJjqhZktR-dYXtfYu9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399232968671-72shvr5jkb5lia8eoe36jnlar2f52rq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
